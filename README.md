@@ -1,5 +1,6 @@
 # eww-all-colors
 All colors on extremeweatherwatch. Goes from 120 to 10b.
+
 .temp120 {
     background-color: #000;
     color: #ddd
@@ -223,3 +224,4 @@ All colors on extremeweatherwatch. Goes from 120 to 10b.
 
 .temp70 {
     background-color: #FFFF00;
+}
