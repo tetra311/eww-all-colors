@@ -345,3 +345,43 @@ All colors on extremeweatherwatch. Goes from 120 to 10b.
 .temp40 {
     background-color: #00FFAA;
 }
+
+.temp39 {
+    background-color: #00FFB3;
+}
+
+.temp38 {
+    background-color: #00FFBB;
+}
+
+.temp37 {
+    background-color: #00FFC4;
+}
+
+.temp36 {
+    background-color: #00FFCC;
+}
+
+.temp35 {
+    background-color: #00FFD5;
+}
+
+.temp34 {
+    background-color: #00FFDD;
+}
+
+.temp33 {
+    background-color: #00FFE6;
+}
+
+.temp32 {
+    background-color: #00FFEE;
+}
+
+.temp31 {
+    background-color: #00FFF7;
+}
+
+.temp30 {
+    background-color: #00FFFF;
+}
