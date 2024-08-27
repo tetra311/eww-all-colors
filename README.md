@@ -385,3 +385,148 @@ All colors on extremeweatherwatch. Goes from 120 to 10b.
 .temp30 {
     background-color: #00FFFF;
 }
+
+.temp29 {
+    background-color: #00F7FF;
+}
+
+.temp28 {
+    background-color: #00EEFF;
+}
+
+.temp27 {
+    background-color: #00E6FF;
+}
+
+.temp26 {
+    background-color: #00DDFF;
+}
+
+.temp25 {
+    background-color: #00D5FF;
+}
+
+.temp24 {
+    background-color: #00CCFF;
+}
+
+.temp23 {
+    background-color: #00C4FF;
+}
+
+.temp22 {
+    background-color: #00BBFF;
+}
+
+.temp21 {
+    background-color: #00B3FF;
+}
+
+.temp20 {
+    background-color: #00AAFF;
+}
+
+.temp19 {
+    background-color: #00A2FF;
+    color: #fff;
+}
+
+.temp18 {
+    background-color: #0099FF;
+    color: #fff;
+}
+
+.temp17 {
+    background-color: #0091FF;
+    color: #fff;
+}
+
+.temp16 {
+    background-color: #0088FF;
+    color: #fff;
+}
+
+.temp15 {
+    background-color: #0080FF;
+    color: #fff;
+}
+
+.temp14 {
+    background-color: #0077FF;
+    color: #fff;
+}
+
+.temp13 {
+    background-color: #006FFF;
+    color: #fff;
+}
+
+.temp12 {
+    background-color: #0066FF;
+    color: #fff;
+}
+
+.temp11 {
+    background-color: #005EFF;
+    color: #fff;
+}
+
+.temp10 {
+    background-color: #0055FF;
+    color: #fff;
+}
+
+.temp10 {
+    background-color: #0055FF;
+    color: #fff;
+}
+
+.temp9 {
+    background-color: #004DFF;
+    color: #fff;
+}
+
+.temp8 {
+    background-color: #0044FF;
+    color: #fff;
+}
+
+.temp7 {
+    background-color: #003CFF;
+    color: #fff;
+}
+
+.temp6 {
+    background-color: #0033FF;
+    color: #fff;
+}
+
+.temp5 {
+    background-color: #002BFF;
+    color: #fff;
+}
+
+.temp4 {
+    background-color: #0022FF;
+    color: #fff;
+}
+
+.temp3 {
+    background-color: #001AFF;
+    color: #fff;
+}
+
+.temp2 {
+    background-color: #0011FF;
+    color: #fff;
+}
+
+.temp1 {
+    background-color: #0009FF;
+    color: #fff;
+}
+
+.temp0 {
+    background-color: #0000FF;
+    color: #fff;
+}
